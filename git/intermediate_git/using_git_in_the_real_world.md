@@ -14,6 +14,8 @@ This section contains a general overview of topics that you will learn in this l
 
 - Using Git to make open source contributions.
 
+- More practice text
+
 ### Commit messages for collaboration
 
 Before we dive into workflows, take a minute to remind yourself about good commit messages. You can check the [foundations lesson](https://www.theodinproject.com/lessons/foundations-commit-messages) for a reminder. This is a good time to draw particular attention to [Conventional Commits](https://www.conventionalcommits.org), a standard for commits that is gaining more and more popularity for collaborative projects. It helps to make sure your commit message gives a clear description of its purpose to anyone reading. You may like to implement these going forwards (if you aren't already!), or at least be aware of them for when you read other repos.
